@@ -1,0 +1,26 @@
+{
+  "name": "chatbots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonnyLoo/chatbots.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonnyLoo/chatbots/issues"
+  },
+  "homepage": "https://github.com/JonnyLoo/chatbots#readme",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "hbs": "^4.0.1",
+    "socket.io": "^2.0.4"
+  }
+}
